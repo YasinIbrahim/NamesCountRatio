@@ -1,0 +1,12 @@
+C:\Users\Yasin.YAS-XW4600-2\Documents\VC#\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+C:\Users\Yasin.YAS-XW4600-2\Documents\VC#\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+C:\Users\Yasin.YAS-XW4600-2\Documents\VC#\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+C:\Users\Yasin.YAS-XW4600-2\Documents\VC#\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+C:\Users\Yasin.YAS-XW4600-2\Documents\VC#\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
+C:\Users\Yasin.YAS-XW4600-2\Documents\VC#\ConsoleApplication2\ConsoleApplication2\obj\Debug\NamesCount.csprojResolveAssemblyReference.cache
+C:\Users\Yasin.YAS-XW4600-2\Documents\VC#\NamesCount\NamesCount\bin\Debug\ConsoleApplication2.exe.config
+C:\Users\Yasin.YAS-XW4600-2\Documents\VC#\NamesCount\NamesCount\obj\Debug\ConsoleApplication2.exe
+C:\Users\Yasin.YAS-XW4600-2\Documents\VC#\NamesCount\NamesCount\obj\Debug\ConsoleApplication2.pdb
+C:\Users\Yasin.YAS-XW4600-2\Documents\VC#\NamesCount\NamesCount\bin\Debug\ConsoleApplication2.exe
+C:\Users\Yasin.YAS-XW4600-2\Documents\VC#\NamesCount\NamesCount\bin\Debug\ConsoleApplication2.pdb
+C:\Users\Yasin.YAS-XW4600-2\Documents\VC#\NamesCount\NamesCount\obj\Debug\NamesCount.csprojResolveAssemblyReference.cache
